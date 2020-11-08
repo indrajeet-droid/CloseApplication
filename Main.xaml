@@ -76,7 +76,7 @@
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <ui:CloseApplication DisplayName="Close Application 'menu item  Search'" sap:VirtualizedContainerService.HintSize="579,68" sap2010:WorkflowViewState.IdRef="CloseApplication_2">
+            <ui:CloseApplication DisplayName="Close Application 'menu item  rch'" sap:VirtualizedContainerService.HintSize="579,68" sap2010:WorkflowViewState.IdRef="CloseApplication_2">
               <ui:CloseApplication.Target>
                 <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0052caff-e3c8-499a-9c64-2fb952c003ae" Selector="&lt;wnd app='iexplore.exe' /&gt;">
                   <ui:Target.TimeoutMS>
